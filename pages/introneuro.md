@@ -39,6 +39,45 @@ Understand basic principles of neuroscience including: Nervous system cell types
 * Differentiate between brain observation methods
 * Understand within a historical social context how the field of neuroscience has developed and where it is going
 
+*Helpful previous knowledge: basic understanding of cell and molecular biology, general physiology and human anatomy.*
+
+
+# Lesson Outline
+
+Introduction
+What is Neuroscience?
+Nervous System Overview
+Cellular Components of the Nervous System
+Neurons and Synapses
+Neurochemistry
+Neurotransmitters
+Neuroreceptors
+Function of Ion Channels within Neuronal Membrane
+Neural Circuits and Neural Networks
+Neuroanatomy and Brain Organisation 
+Introduction to Neuroanatomy and Brain Organisation
+Introduction to Brain Individuality 
+What is the Brain?
+The Basics
+Brain Lobes 
+Folds and Grooves
+3 Sections of the Brain: Forebrain, Midbrain, Hindbrain
+Brodmann Areas and Talairach Coordinates
+Grey and White Matter
+Connections Between the Sections
+Functional Systems of the Brain
+Sensory Systems and Perception
+Motor Systems
+Arousal and Sleep Cycles
+Homeostasis
+Cognition Systems and Brain Development
+Brain Disease and Disorders
+Frontiers in Neuroscience
+Historical Developments
+Neuroimaging: Methods and Techniques
+Human Genome and Other Technological Advancements 
+Multidisciplinary Approaches to Neuroscience
+References
 
 
 ## Horizontal Rules
